@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/pttkht/Module_Libman2/web/SearchDocumentView.jsp</file>
+            <file>file:/D:/pttkht/Module_Libman2/web/LendDocumentView.jsp</file>
+            <file>file:/D:/pttkht/Module_Libman2/src/java/Controller/LoanSlipServlet.java</file>
+            <file>file:/D:/pttkht/Module_Libman2/web/ScanDocumentCodeView.jsp</file>
+            <file>file:/D:/pttkht/Module_Libman2/web/ScanReaderCardView.jsp</file>
+            <file>file:/D:/pttkht/Module_Libman2/src/java/Controller/DocumentServlet.java</file>
+            <file>file:/D:/pttkht/Module_Libman2/web/Login.jsp</file>
+            <file>file:/D:/pttkht/Module_Libman2/src/java/dao/DocumentDAO.java</file>
+            <file>file:/D:/pttkht/Module_Libman2/src/java/dao/LoanSlipDAO.java</file>
+            <file>file:/D:/pttkht/Module_Libman2/src/java/dao/LoginDAO.java</file>
+            <file>file:/D:/pttkht/Module_Libman2/src/java/dao/ReaderCardDAO.java</file>
+            <file>file:/D:/pttkht/Module_Libman2/src/java/Controller/LoginServlet.java</file>
+            <file>file:/D:/pttkht/Module_Libman2/src/java/Controller/LogoutServlet.java</file>
+            <file>file:/D:/pttkht/Module_Libman2/src/java/Controller/ReaderCardServlet.java</file>
+            <file>file:/D:/pttkht/Module_Libman2/web/StaffHomeView.jsp</file>
+        </group>
+    </open-files>
+</project-private>
